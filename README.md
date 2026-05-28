@@ -1,13 +1,13 @@
 <!-- PREMIUM CYBER HEADER -->
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:111827,100:00F7FF&text=Rajeshwar%20Chaturvedi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AIML%20Student%20%7C%20AI%20Developer%20%7C%20Flutter%20Developer&descAlignY=58&descSize=18"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0D1117,50:111827,100:00F7FF&text=Rajeshwar%20Chaturvedi&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AIML%20Student%20%7C%20Building%20AI%20Projects%20%7C%20Learning%20Full%20Stack%20Development&descAlignY=58&descSize=18"/>
 </p>
 
-<!-- PREMIUM TYPING -->
+<!-- TYPING ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Currently+Building+CashFeel;AI+Apps+%26+Modern+Digital+Products;Focused+on+AI%2FML+%26+Full+Stack+Development;Learning+by+Building+Real+Projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=24&duration=3500&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Currently+Working+On+CashFeel;Focused+on+AI%2FML+%26+Full+Stack+Development;Learning+by+Building+Real+Projects;Exploring+AI+Apps+%26+Modern+Software" />
 </p>
 
 <!-- SHORT INTRO -->
@@ -20,6 +20,25 @@
 
 <p align="center">
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</p>
+
+# 🚀 Current Project — CashFeel
+
+### 💡 About CashFeel
+CashFeel is a modern finance & productivity application focused on smart money tracking, clean UI/UX, and AI-powered features designed to improve productivity and financial awareness.
+
+### ⚙️ What I'm Working On
+- AI-powered finance features
+- Clean and modern UI/UX
+- Learning Flutter app architecture
+- Backend & full-stack integration
+
+---
+
+<!-- CYBER GRAPH -->
+
+<p align="center">
+  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajeshwar-dev&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 </p>
 
 # 🚀 Current Project — CashFeel
