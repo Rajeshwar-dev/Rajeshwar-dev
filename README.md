@@ -40,27 +40,8 @@ CashFeel is a modern finance & productivity application focused on smart money t
 <p align="center">
   <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajeshwar-dev&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
 </p>
-
-# 🚀 Current Project — CashFeel
-
-### 💡 About CashFeel
-CashFeel is a modern finance & productivity application focused on smart money tracking, clean UI/UX, and AI-powered features designed to improve productivity and financial awareness.
-
-### ⚙️ What I'm Working On
-- AI-powered finance features
-- Clean and modern UI/UX
-- Flutter app architecture
-- Backend & full-stack integration
-
 ---
 
-<!-- CYBER GRAPH -->
-
-<p align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rajeshwar-dev&bg_color=0D1117&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity"/>
-</p>
-
----
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cluv_erse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeshwarchaturvedi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cluv_erse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshwarchaturvedi168@gmail.com) 
 
