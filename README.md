@@ -42,6 +42,10 @@ CashFeel is a modern finance & productivity application focused on smart money t
 </p>
 ---
 
+## Certifications
+- [AI Agents and Agentic AI](https://coursera.org/verify/T20NGCTDF5VP) — Vanderbilt University (May 2026)
+- [Supervised ML: Regression & Classification](https://coursera.org/verify/J63NQXSDF2NI) — Stanford + DeepLearning.AI (May 2026)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cluv_erse) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajeshwarchaturvedi) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@cluv_erse) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajeshwarchaturvedi168@gmail.com) 
 
